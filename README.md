@@ -1,6 +1,6 @@
 # Projeto Dio Lista de estudos<h1>
 
-##### Uma breve lista de algumas skils aprendidas no bootcamps decolaTech <h5>
+##### Uma breve lista de algumas skills aprendidas no Bootcamp DecolaTech 3º edição <h5>
 
 ### HTML <h3>
 
